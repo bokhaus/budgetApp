@@ -1,0 +1,25 @@
+To-do list for Budget App (First part of app)
+1. Add evenhandler
+2. Get input values
+3. Add new item to data structure
+4. Add new item to the UI
+5. Calculate the Budget
+6. Update UI
+
+How to structure the code (Modules) MVC
+1. Keep the project cleanly separated
+2. Encapsulate some data for privacy
+
+Modules needed:
+Data Module
+3. Add new item to data structure
+5. Calculate the Budget
+
+UI Module
+2. Get input values
+4. Add new item to the UI
+6. Update UI
+
+Controller Module
+1. Add evenhandler
+
